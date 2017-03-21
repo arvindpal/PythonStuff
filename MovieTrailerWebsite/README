@@ -1,0 +1,10 @@
+The project consists of the following files
+
+website.py: Main Code to generate the html content for the movie website
+media.py: Class Structure for stiring the movie data
+fresh_tomatoes.py:  file containing the code to generate the actual HTML content based on movie list
+
+Usage:
+1. Use Command line as follows
+python website.py
+2. The website will open in the browser automatically.
